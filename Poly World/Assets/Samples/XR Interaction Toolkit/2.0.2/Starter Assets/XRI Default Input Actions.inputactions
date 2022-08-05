@@ -987,7 +987,7 @@
                     "id": "02e43582-8973-4940-af06-dff6158e3df2",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": "",
+                    "interactions": "Hold",
                     "initialStateCheck": true
                 },
                 {
@@ -996,7 +996,7 @@
                     "id": "a6c7231d-c55d-4dd4-9e87-877bb5522ef5",
                     "expectedControlType": "Vector2",
                     "processors": "",
-                    "interactions": "",
+                    "interactions": "Press",
                     "initialStateCheck": true
                 },
                 {
