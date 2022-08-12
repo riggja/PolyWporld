@@ -1,0 +1,11 @@
+Model Information:
+* title:	Training Dummy (FREE)
+* source:	https://sketchfab.com/3d-models/training-dummy-free-cafd6fc46b29414f8d3c422d952de7b1
+* author:	KodiszYT (https://sketchfab.com/kodisz10)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Training Dummy (FREE)" (https://sketchfab.com/3d-models/training-dummy-free-cafd6fc46b29414f8d3c422d952de7b1) by KodiszYT (https://sketchfab.com/kodisz10) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

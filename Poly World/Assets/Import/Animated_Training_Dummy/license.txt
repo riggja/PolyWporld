@@ -1,0 +1,11 @@
+Model Information:
+* title:	Animated Training Dummy
+* source:	https://sketchfab.com/3d-models/animated-training-dummy-46f5711e3ac04900a49732d78f4f64d8
+* author:	FunkyDealer (https://sketchfab.com/FunkyDealer)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Animated Training Dummy" (https://sketchfab.com/3d-models/animated-training-dummy-46f5711e3ac04900a49732d78f4f64d8) by FunkyDealer (https://sketchfab.com/FunkyDealer) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
